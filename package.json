@@ -1,0 +1,17 @@
+{
+  "name": "shortstop-dns",
+  "version": "1.0.0",
+  "description": "a shortstop handler to look up all DNS A and AAAA records",
+  "files": [],
+  "repository": "jasisk/shortstop-dns",
+  "keywords": ["shortstop", "dns"],
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "author": "Jean-Charles Sisk <jasisk@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  }
+}
